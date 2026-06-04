@@ -3,9 +3,10 @@
     "apps": [],
     "details": [
       {
-        "appID": "622V589PZY.ru.nalunch.app",
+        "appID": "622V589PZY.by.nalunch.app",
         "paths": [
-            "*"
+          "/delivery/*",
+          "/new-delivery/*"
         ]
       }
     ]

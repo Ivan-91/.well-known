@@ -1,9 +1,13 @@
-/*[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "ru.nalunch.app",
-    "sha256_cert_fingerprints":
-    ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "by.nalunch.app",
+      "sha256_cert_fingerprints": [
+        "D9:90:9E:70:01:89:E5:CC:69:2D:8D:AC:96:FD:EA:FC:3A:A4:BD:45:8C:4F:3D:A4:16:D7:24:0C:59:9D:77:03",
+        "92:86:F9:06:50:0B:F4:E5:36:99:2E:91:76:5E:D7:D1:C9:BA:DD:CF:63:05:E6:1E:A8:9B:2B:7C:7A:F6:03:59"
+      ]
+    }
   }
-}]*/
+]
